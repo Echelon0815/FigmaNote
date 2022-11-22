@@ -1,4 +1,4 @@
-# webdesign
+# Webdesign
 
 11/20上課
 文字不屬於 點陣圖or向量圖
@@ -28,9 +28,9 @@
 21. 唯有路徑工具能輸出`svg`，點陣圖無法
 22. 切片工具可以右鍵設定 下刀的位置，設定切線後，可以使用 檔案→轉存→儲存為網頁用
 23. 可以從 視窗→時間軸 製作關鍵影格 再藉由 儲存為網頁用 做成`gif`檔 (記得設定顏色(bit)&邊緣調和(圖案邊緣))
-24. <img src="https://user-images.githubusercontent.com/95067506/202997608-4c940930-fd24-44a1-8222-502494e2cec6.png" style="height:100px;width:100px"> 也可以用視訊時間軸→演算視訊 輸出影片
+24. 也可以用視訊時間軸→演算視訊 輸出影片<img src="https://user-images.githubusercontent.com/95067506/202997608-4c940930-fd24-44a1-8222-502494e2cec6.png" style="height:100px;width:100px">
 
-##figma
+## Figma
 
 1. figma的工作區域，叫做frame，支援多種裝置類型，可以任意打斜，也可以放進其他frame做巢狀結構
 
@@ -41,3 +41,16 @@
 4. 劃出圖案後，設定**__限制 constrains__** 可以讓物件在 frame 裏頭的大小或位置固定or變化
 
 5. 按住 `alt` 可以移動複製 `ctrl+d`大量複製出對齊的圖形，就算亂掉也可以使用`tidy up` (`ctrl+shift+alt+t`)
+
+6. 可以再畫出的圖形上，選取`fill`，將顏色 改成 圖片，將圖片塞入畫好的圖形中
+
+7. 可以用 plugin `google sheet sync`，將畫好的名稱輸入成 #(試算表欄位名.編號) 就可以自動輸入表單中的連接(圖片) ![圖片](https://user-images.githubusercontent.com/95067506/203200269-c94659fb-d59e-428a-ba5d-c253d132f7cb.png)
+
+8. 輸出(export)時，可以用slice輸出元件的一小部分，也可以只share一個元件或只輸出一個元件的圖檔
+
+9. 要裁切圖片時，按住`ctrl`將frame拉成想要的大小，再在右手邊按下clip-contene 便可以裁切frame裏頭的內容，將多個元件拆開後組合(使用`右鍵→selection`)
+
+10. 選取複數物件時，會啟用智慧選取，可以調整特定物件的大小或整理的間隔
+
+11.移動物件時暗助
+
