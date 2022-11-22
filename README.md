@@ -52,5 +52,32 @@
 
 10. 選取複數物件時，會啟用智慧選取，可以調整特定物件的大小或整理的間隔
 
-11.移動物件時暗助
+11.移動物件時按住`space`，讓物件不會被塞進另一個物件裏頭
+
+12. `i`是滴管
+
+13. 操作向量工具時，按住`shift+x`，可以編輯路徑，編輯邊所在的位置 (inside,center,outline)
+
+13. 操作向量工具時(雙擊物件以編輯)，刪除錨點時按住`shift`可以製作出一個"封閉"的圖形 沒按住則會就缺一角
+
+14. 顏色，文字大小等等的設定，可以設定名字和內容，讓所有物件使用 <image src="https://user-images.githubusercontent.com/95067506/203242221-95e15831-d3cf-4e7f-8e46-138b1e20c0c2.png" style="height:100px;width:100px;">
+  
+15. 物件可以加上special effect如模糊、陰影 <image src="https://user-images.githubusercontent.com/95067506/203247290-ef244ed2-6643-4e9d-a0e4-70d3126d6ef4.png" style="height:100px;width:100px;">
+
+16. 將物件製作成componet，將其複製，複製出來的物件叫做子元件，每當母元件被更改，所有子元件都會被更改(可以把母元件放進style guide)
+ 
+17. 利用auto-layout 可以製造出類似flex的效果，簡單的排版<image src="https://user-images.githubusercontent.com/95067506/203250637-96e30e8a-4f12-432a-8889-23c65cfb0912.png" style="height:100px;width:100px;">
+ 
+18. 包住兩個以上componet，可以用create variable components，便可讓figma知道這是同一份元件，只是有設定不同屬性名，爾後子元件就能直接變更屬性<image src="https://user-images.githubusercontent.com/95067506/203253822-b02e1d8c-d616-4599-9352-64561610f8e2.png" style="height:100px;width:100px;"><image src="https://user-images.githubusercontent.com/95067506/203256048-3b30bf9d-bf64-40dc-a658-15b2ff05e88c.png" style="height:100px;width:100px;">
+
+  
+19. 善用auto-layout 在各個母容器和子元素之間 (就像container vs item)，可以自由做出彈性或固定的排版 (寬會不會變)
+
+
+
+
+
+
+
+
 
