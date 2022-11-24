@@ -74,6 +74,12 @@
 19. 善用auto-layout 在各個母容器和子元素之間 (就像container vs item)，可以自由做出彈性或固定的排版 (寬會不會變)
 
 20.  **__編輯子原件時，要先點右鍵→`detach instance`才能更改，並做成新原件__**
+  
+21. **__用Prototype可以互相連接不同物件作互動，不論是滾動，或連接到新物件__**
+  
+  
+  <image src="https://user-images.githubusercontent.com/95067506/203725608-2835963d-1a69-4d51-9dfd-9e64105078f8.png" style="height:100px;width:100px;">※可以有多個Prototype設定,甚至可以做成逐格動畫
+
 
 
 
